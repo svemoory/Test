@@ -10,7 +10,7 @@
     "react-mlsdata": "^0.2.0",
     "react-odata": "^4.5.2"
   },
-  "main": "src/MLSOData.js",
+  "main": "index.js",
   "devDependencies": {
     "node-sass": "^4.5.2",
     "phantomjs": "^2.1.7",
@@ -21,5 +21,19 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "description": "Testing npm package creation",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svemoory/Test.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "SV <surekha.vemoory@gmail.com> (https://github.com/svemoory)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/svemoory/Test/issues"
+  },
+  "homepage": "https://github.com/svemoory/Test#readme"
 }
