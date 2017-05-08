@@ -1,0 +1,25 @@
+{
+  "name": "biwidgets_api",
+  "version": "0.1.0",
+  "private": false,
+  "dependencies": {
+    "odata-query": "^3.3.1",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "react-fetch-component": "^2.5.1",
+    "react-mlsdata": "^0.2.0",
+    "react-odata": "^4.5.2"
+  },
+  "main": "src/MLSOData.js",
+  "devDependencies": {
+    "node-sass": "^4.5.2",
+    "phantomjs": "^2.1.7",
+    "react-scripts": "0.9.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
