@@ -1,6 +1,6 @@
 {
   "name": "biwidgets_api",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": false,
   "dependencies": {
     "odata-query": "^3.3.1",
