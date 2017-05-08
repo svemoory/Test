@@ -1,22 +1,9 @@
-/*import React from 'react';
-import ReactDOM from 'react-dom';
-import App from './App';
-import MLSOData from './MLSOData'
-import './index.css';
-
-ReactDOM.render(
-  <App />,
-  document.getElementById('root')
-);*/
-
 'use strict';
+import App from './App.js';
+var React = require('react');
 
-/**
- * Adds commas to a number
- * @param {number} number
- * @param {string} locale
- * @return {string}
- */
-module.exports = function(number, locale) {
-    return number.toLocaleString(locale);
-};
+var test = App;
+
+module.exports = test;
+
+
